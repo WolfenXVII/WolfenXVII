@@ -14,7 +14,7 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=java)
 ![Python](http://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python&logoColor=F7B500)
 
-#### 🛠 OS & IDE & Tools <br />
+#### 🛠️ OS & IDE & Tools <br />
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows&logoColor=2496ed)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=2496ed)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-007ACC?style=flat&logo=intellij-idea)
