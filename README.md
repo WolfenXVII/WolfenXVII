@@ -5,8 +5,9 @@
 </div>
 
 [![Wolfs Github Stats](https://github-readme-stats.vercel.app/api?username=WolfenXVII&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Wolfs Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WolfenXVII&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![wolfens wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wolfen&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #### 🌐  Languages : <br />
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5)
