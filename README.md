@@ -13,6 +13,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5)
 ![CSS](http://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=css3&logoColor=F7B500)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=intellij-idea)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript)
 ![Python](http://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python&logoColor=F7B500)
 
 #### 🛠️ OS & IDE & Tools <br />
