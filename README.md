@@ -24,6 +24,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kogisin/WolfenXVII)
 [![wakatime](https://wakatime.com/badge/user/6a85fdc2-c024-4238-b51f-e0ee50b69ddb.svg)](https://wakatime.com/@6a85fdc2-c024-4238-b51f-e0ee50b69ddb)
 <!---[!template pulled from Ashesh3 https://github.com/Ashesh3/Ashesh3
